@@ -103,7 +103,6 @@ body {
     transition: 0.2s;
 }
 .menu_item:hover {
-    text-decoration: underline;
     transition: 0.2s;
     color: white;
 }
