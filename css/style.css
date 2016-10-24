@@ -116,6 +116,7 @@ body {
 .main_content {
     width: 100%;
     background: white;
+    float: left;
 }
 .logo_icon {
     width: 22px;
