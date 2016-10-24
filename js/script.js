@@ -5,7 +5,7 @@ $(function(){
     $(document).on('mousewheel','.zanaves',function(e){
         var delta = e.deltaY || e.detail || e.wheelDelta;
 
-        console.log(delta);
+//        console.log(delta);
         l.width(function () {
             return $(this).width() + (delta*200);
         });
