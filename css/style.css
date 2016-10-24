@@ -56,10 +56,9 @@ body {
     width: 96px;
     border: 11px solid #515151;
     border-radius: 50%;
-    transition: 0.5s;
 }
-.arrow_to_start_image:hover {
-    width: 96px;
-    border: 8px solid #515151;
-    border-radius: 50%;
-}
+/*.arrow_to_start_image:hover {*/
+    /*width: 96px;*/
+    /*border: 8px solid #515151;*/
+    /*border-radius: 50%;*/
+/*}*/
