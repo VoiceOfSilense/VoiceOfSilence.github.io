@@ -167,3 +167,37 @@ body {
     padding-top: 8px;
     font-size: 15pt;
 }
+
+.first_upcoming_menu_item {
+    width: 99.8%;
+    float: left;
+    background: black;
+    height: 79%;
+    margin-top: -4px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 15pt;
+}
+.second_upcoming_menu_item {
+    width: 98.4%;
+    margin: 0 auto;
+    background: black;
+    height: 79%;
+    margin-top: -4px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 15pt;
+}
+.third_upcoming_menu_item {
+    width: 99.8%;
+    float: right;
+    background: black;
+    height: 79%;
+    margin-top: -4px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 15pt;
+}
