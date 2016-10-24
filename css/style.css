@@ -77,4 +77,11 @@ body {
     padding-top: 4px;
     padding-left: 40px;
     font-size: 13pt;
+    float: left;
+}
+.menu_header {
+    float: right;
+}
+.menu_item {
+    
 }
