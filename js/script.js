@@ -18,7 +18,7 @@ $(function(){
 });
 $(function (e) {
     $('.arrow_to_start').click(function () {
-        $('.zanaves').hide();
+        $('.zanaves').fadeOut('slow');
         $('.main_page').fadeIn('slow');
     })
 })
