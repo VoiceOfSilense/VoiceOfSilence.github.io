@@ -81,7 +81,16 @@ body {
 }
 .menu_header {
     float: right;
+    width: 368px;
+    margin-right: 40px;
 }
 .menu_item {
-    
+    float: left;
+    color: white;
+    width: 25%;
+    padding-top: 6px;
+    font-family: monospace;
+    font-size: 10pt;
+    text-align: right;
+    cursor: pointer;
 }
