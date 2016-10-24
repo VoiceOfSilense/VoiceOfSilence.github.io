@@ -23,3 +23,6 @@ $(function (e) {
         $('.main_page').fadeIn('1000');
     })
 })
+$('.header_logo').mouseover(function() {
+    $('.logo_icon').attr('src','../images/feather_white.png');
+})
