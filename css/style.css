@@ -131,19 +131,23 @@ body {
 .upcoming_menu_item {
     width: 33.333333333333%;
     float: left;
+    height: 40px;
 }
 .first_upcoming_menu_item {
     width: 99%;
     float: left;
     background: black;
+    height: 100%
 }
 .second_upcoming_menu_item {
     width: 98%;
     margin: 0 auto;
     background: black;
+    height: 100%
 }
 .third_upcoming_menu_item {
     width: 99%;
     float: right;
     background: black;
+    height: 100%
 }
