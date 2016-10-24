@@ -54,7 +54,7 @@ body {
 }
 .arrow_to_start_image {
     width: 96px;
-    border: 11px solid #515151;
+    border: 11px solid black;
     border-radius: 50%;
 }
 .main_page {
