@@ -81,10 +81,12 @@ body {
     font-size: 13pt;
     float: left;
     margin-bottom: 0;
+    transition: 0.2s;
 }
 .header_logo:hover {
     color: white;
     cursor: pointer;
+    transition: 0.2s;
 }
 .menu_header {
     float: right;
