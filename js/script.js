@@ -19,6 +19,6 @@ $(function(){
 $(function (e) {
     $('.arrow_to_start').click(function () {
         $('.zanaves').hide();
-        $('.main_page').fadeIn();
+        $('.main_page').fadeIn('slow');
     })
 })
