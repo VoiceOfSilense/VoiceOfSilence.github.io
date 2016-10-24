@@ -147,6 +147,7 @@ body {
     transition: 0.2s;
     border-radius: 0px 0px 10px 10px;
     cursor: pointer;
+    font-family: monospace;
 }
 .second_upcoming_menu_item {
     width: 98.4%;
@@ -161,6 +162,7 @@ body {
     transition: 0.2s;
     border-radius: 0px 0px 10px 10px;
     cursor: pointer;
+    font-family: monospace;
 }
 .third_upcoming_menu_item {
     width: 99.8%;
@@ -175,6 +177,7 @@ body {
     transition: 0.2s;
     border-radius: 0px 0px 10px 10px;
     cursor: pointer;
+    font-family: monospace;
 }
 
 .first_upcoming_menu_item:hover {
