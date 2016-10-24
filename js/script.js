@@ -7,10 +7,10 @@ $(function(){
 
         console.log(delta);
         l.width(function () {
-            return $(this).width() + (delta*120);
+            return $(this).width() + (delta*200);
         });
         r.width(function () {
-            return $(this).width() + (delta*120);
+            return $(this).width() + (delta*200);
         });
         e.preventDefault ? e.preventDefault() : (e.returnValue = false);
 
