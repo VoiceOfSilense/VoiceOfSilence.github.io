@@ -95,6 +95,9 @@ body {
     text-align: right;
     cursor: pointer;
 }
+.menu_item:hover {
+    text-decoration: underline;
+}
 .slider {
 
 }
