@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+}
+.left_part {
+    width: 50%;
+    max-width: 50%;
+    height: 100%;
+    float: left;
+    text-align: right;
+    background: black;
+    background-image: url(../images/pero_left.png);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 204px;
+    transition: 0.2s ease;
+    position: absolute;
+    z-index: 99;
+}
+.right_part {
+    width: 50%;
+    max-width: 50%;
+    height: 100%;
+    float: right;
+    background: black;
+    background-image: url(../images/pero_right.png);
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: 204px;
+    transition: 0.2s ease;
+    position: absolute;
+    right: 0;
+    z-index: 99;
+}
+.zanaves {
+    width: 100%;
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+    background-image: url('../images/main_background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.arrow_to_start {
+    position: absolute;
+    top: 43%;
+    left: 46%;
+    transition: 0.5s;
+}
+.arrow_to_start:hover {
+    position: absolute;
+    top: 39.08%;
+    left: 46.08%;
+    transition: 0.5s;
+}
+.arrow_to_start_image {
+    width: 96px;
+    border: 11px solid #515151;
+    border-radius: 50%;
+    transition: 0.5s;
+}
+.arrow_to_start_image:hover {
+    width: 96px;
+    border: 8px solid #515151;
+    border-radius: 50%;
+}
