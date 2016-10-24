@@ -26,3 +26,6 @@ $(function (e) {
 $('.header_logo').mouseover(function() {
     $('.logo_icon').attr('src','../images/feather_white.png');
 })
+$('.header_logo').mouseout(function() {
+    $('.logo_icon').attr('src','../images/feather.png');
+})
