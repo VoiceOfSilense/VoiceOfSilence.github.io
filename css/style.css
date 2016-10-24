@@ -140,6 +140,8 @@ body {
     background: black;
     height: 100%;
     margin-top: -4px;
+    color: white;
+    text-align: center;
 }
 .second_upcoming_menu_item {
     width: 98.4%;
@@ -147,6 +149,8 @@ body {
     background: black;
     height: 100%;
     margin-top: -4px;
+    color: white;
+    text-align: center;
 }
 .third_upcoming_menu_item {
     width: 99.8%;
@@ -154,4 +158,6 @@ body {
     background: black;
     height: 100%;
     margin-top: -4px;
+    color: white;
+    text-align: center;
 }
