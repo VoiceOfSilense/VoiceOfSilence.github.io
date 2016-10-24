@@ -82,6 +82,9 @@ body {
     float: left;
     margin-bottom: 0;
 }
+.header_logo:hover {
+    color: white;
+}
 .menu_header {
     float: right;
     width: 368px;
@@ -101,6 +104,7 @@ body {
 .menu_item:hover {
     text-decoration: underline;
     transition: 0.2s;
+    color: white;
 }
 .slider {
     margin-top: 30px;
