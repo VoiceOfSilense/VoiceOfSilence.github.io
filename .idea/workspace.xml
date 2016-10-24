@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca3bd9d7-67b9-4c57-afa1-8509fa123fbb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-    </list>
+    <list default="true" id="ca3bd9d7-67b9-4c57-afa1-8509fa123fbb" name="Default" comment="" />
     <ignored path="VoiceOfSilence.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -229,12 +227,12 @@
       <option name="presentableId" value="Default" />
       <updated>1477295647061</updated>
       <workItem from="1477295649997" duration="40000" />
-      <workItem from="1477295709712" duration="5091000" />
+      <workItem from="1477295709712" duration="5117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5131000" />
+    <option name="totallyTimeSpent" value="5157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
