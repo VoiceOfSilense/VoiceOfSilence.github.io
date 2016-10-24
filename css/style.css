@@ -84,6 +84,7 @@ body {
 }
 .header_logo:hover {
     color: white;
+    cursor: pointer;
 }
 .menu_header {
     float: right;
