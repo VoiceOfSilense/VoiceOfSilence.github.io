@@ -127,6 +127,7 @@ body {
 }
 .upcoming_menu {
     float: left;
+    width: 100%;
 }
 .upcoming_menu_item {
     width: 33.333333333333%;
