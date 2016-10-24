@@ -49,7 +49,7 @@ body {
 .arrow_to_start:hover {
     position: absolute;
     top: 39.08%;
-    left: 46.08%;
+    left: 46%;
     transition: 0.5s;
 }
 .arrow_to_start_image {
