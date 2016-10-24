@@ -125,3 +125,25 @@ body {
     margin-top: 4px;
     margin-right: 9px;
 }
+.upcoming_menu {
+    float: left;
+}
+.upcoming_menu_item {
+    width: 33.333333333333%;
+    float: left;
+}
+.first_upcoming_menu_item {
+    width: 99%;
+    float: left;
+    background: black;
+}
+.second_upcoming_menu_item {
+    width: 98%;
+    margin: 0 auto;
+    background: black;
+}
+.third_upcoming_menu_item {
+    width: 99%;
+    float: right;
+    background: black;
+}
