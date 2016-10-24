@@ -135,21 +135,21 @@ body {
     height: 40px;
 }
 .first_upcoming_menu_item {
-    width: 99%;
+    width: 99.8%;
     float: left;
     background: black;
     height: 100%;
     margin-top: -4px;
 }
 .second_upcoming_menu_item {
-    width: 98%;
+    width: 98.4%;
     margin: 0 auto;
     background: black;
     height: 100%;
     margin-top: -4px;
 }
 .third_upcoming_menu_item {
-    width: 99%;
+    width: 99.8%;
     float: right;
     background: black;
     height: 100%;
