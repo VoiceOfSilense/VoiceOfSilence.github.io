@@ -168,7 +168,7 @@ body {
     font-size: 15pt;
 }
 
-.first_upcoming_menu_item {
+.first_upcoming_menu_item:hover {
     width: 99.8%;
     float: left;
     background: black;
@@ -179,7 +179,7 @@ body {
     padding-top: 10px;
     font-size: 15pt;
 }
-.second_upcoming_menu_item {
+.second_upcoming_menu_item:hover {
     width: 98.4%;
     margin: 0 auto;
     background: black;
@@ -190,7 +190,7 @@ body {
     padding-top: 10px;
     font-size: 15pt;
 }
-.third_upcoming_menu_item {
+.third_upcoming_menu_item:hover {
     width: 99.8%;
     float: right;
     background: black;
