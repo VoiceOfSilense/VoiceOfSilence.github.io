@@ -23,20 +23,20 @@ $(function(){
         });
         e.preventDefault ? e.preventDefault() : (e.returnValue = false);
     });
-    if(isMobileDevice()){
-        $(document).on('touchstart', function(f){
-            var delta = f.deltaY || f.detail || f.wheelDelta;
-
-    //        console.log(delta);
-            l.width(function () {
-                return $(this).width() + (delta*200);
-            });
-            r.width(function () {
-                return $(this).width() + (delta*200);
-            });
-            f.preventDefault ? f.preventDefault() : (f.returnValue = false);
-        });
-    }
+//    if(isMobileDevice()){
+//        $(document).on('touchstart', function(f){
+//            var delta = f.deltaY || f.detail || f.wheelDelta;
+//
+//    //        console.log(delta);
+//            l.width(function () {
+//                return $(this).width() + (delta*200);
+//            });
+//            r.width(function () {
+//                return $(this).width() + (delta*200);
+//            });
+//            f.preventDefault ? f.preventDefault() : (f.returnValue = false);
+//        });
+//    }
     
 //    $('.main_page').unbind('mousewheel');
 });
