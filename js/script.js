@@ -34,7 +34,7 @@ $(function(){
             r.width(function () {
                 return $(this).width() + (delta*200);
             });
-            e.preventDefault ? e.preventDefault() : (e.returnValue = false);
+            f.preventDefault ? f.preventDefault() : (f.returnValue = false);
         });
     }
     
