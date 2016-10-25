@@ -24,7 +24,7 @@ $(function(){
         e.preventDefault ? e.preventDefault() : (e.returnValue = false);
     });
     if(isMobileDevice()){
-        $(document).click(function(f){
+        $(document).on('touchstart', function(f){
             var delta = f.deltaY || f.detail || f.wheelDelta;
 
     //        console.log(delta);
