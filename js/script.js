@@ -1,3 +1,12 @@
+var isMobileDevice = function() {
+    return  ((
+        navigator.userAgent.match(/Android/i) ||
+        navigator.userAgent.match(/BlackBerry/i) ||
+        navigator.userAgent.match(/iPhone|iPad|iPod/i) ||
+        navigator.userAgent.match(/Opera Mini/i) ||
+        navigator.userAgent.match(/IEMobile/i)
+    ) ? true : false);
+}
 $(function(){
     var l = $('.left_part');
     var r = $('.right_part');
@@ -14,9 +23,24 @@ $(function(){
         });
         e.preventDefault ? e.preventDefault() : (e.returnValue = false);
     });
+    if(isMobileDevice()){
+        $(document).click(function(f){
+            var delta = f.deltaY || f.detail || f.wheelDelta;
+
+    //        console.log(delta);
+            l.width(function () {
+                return $(this).width() + (delta*200);
+            });
+            r.width(function () {
+                return $(this).width() + (delta*200);
+            });
+            e.preventDefault ? e.preventDefault() : (e.returnValue = false);
+        });
+    }
     
 //    $('.main_page').unbind('mousewheel');
 });
+
 $(function (e) {
     $('.arrow_to_start').click(function () {
         $('.zanaves').fadeOut('1000');
