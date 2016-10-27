@@ -97,7 +97,7 @@ body {
 }
 .slider {
     margin-top: 30px;
-    height: calc(100vh - 30px - 61.66px);
+    height: calc(100vh - 30px - 62px);
     overflow: hidden;
 }
 .slider_item {
