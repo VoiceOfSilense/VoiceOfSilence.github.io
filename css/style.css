@@ -104,7 +104,8 @@ body {
 .footer {
     width: 100%;
     height: 133px;
-    background: black;
+    background: #424242;
+    float: left;
 }
 .main_content {
     width: 100%;
