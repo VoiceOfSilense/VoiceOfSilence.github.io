@@ -225,7 +225,7 @@ body {
 ::-webkit-scrollbar-thumb{
     border-width:1px 1px 1px 2px;
     border-color: #777;
-    background-color: #425e67;
+    background-color: #bdbdbd;
 }
 ::-moz-scrollbar{
     width:12px;
@@ -233,7 +233,7 @@ body {
 ::-moz-scrollbar-thumb{
     border-width:1px 1px 1px 2px;
     border-color: #777;
-    background-color: #425e67;
+    background-color: #bdbdbd;
 }
 ::-o-scrollbar{
     width:12px;
@@ -241,5 +241,5 @@ body {
 ::-o-scrollbar-thumb{
     border-width:1px 1px 1px 2px;
     border-color: #777;
-    background-color: #425e67;
+    background-color: #bdbdbd;
 }
