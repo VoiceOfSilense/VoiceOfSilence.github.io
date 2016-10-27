@@ -7,7 +7,7 @@ body {
     height: 100%;
     float: left;
     text-align: right;
-    background: #425e67;
+    background: #616161;
     background-image: url(../images/pero_left.png);
     background-repeat: no-repeat;
     background-position: 100%;
@@ -21,7 +21,7 @@ body {
     max-width: 50%;
     height: 100%;
     float: right;
-    background: #425e67;
+    background: #616161;
     background-image: url(../images/pero_right.png);
     background-repeat: no-repeat;
     background-position: 0%;
