@@ -96,7 +96,7 @@ body {
 }
 .menu_item {
     float: left;
-    color: #583e16;
+    color: #425e67;
     width: 25%;
     padding-top: 6px;
     font-family: monospace;
@@ -104,6 +104,7 @@ body {
     text-align: right;
     cursor: pointer;
     transition: 0.2s;
+    font-weight: 700;
 }
 .menu_item:hover {
     transition: 0.2s;
