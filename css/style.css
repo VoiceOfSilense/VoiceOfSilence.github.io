@@ -8,10 +8,10 @@ body {
     float: left;
     text-align: right;
     background: #616161;
-    background-image: url(../images/pero_left.png);
+    background-image: url(../images/left_texture_zanaves.png);
     background-repeat: no-repeat;
     background-position: 100%;
-    background-size: 204px;
+    background-size: 100% 100%;
     transition: 0.2s ease;
     position: absolute;
     z-index: 99;
@@ -22,10 +22,10 @@ body {
     height: 100%;
     float: right;
     background: #616161;
-    background-image: url(../images/pero_right.png);
+    background-image: url(../images/right_texture_zanaves.png);
     background-repeat: no-repeat;
     background-position: 0%;
-    background-size: 204px;
+    background-size: 100% 100%;
     transition: 0.2s ease;
     position: absolute;
     right: 0;
