@@ -131,7 +131,7 @@ body {
 .first_upcoming_menu_item {
     width: 99.9%;
     float: left;
-    background: #7596a0;
+    background: #616161;
     height: 79%;
     margin-top: -4px;
     color: white;
@@ -147,7 +147,7 @@ body {
 .second_upcoming_menu_item {
     width: 98.9%;
     margin: 0 auto;
-    background: #7596a0;
+    background: #616161;
     height: 79%;
     margin-top: -4px;
     color: white;
@@ -163,7 +163,7 @@ body {
 .third_upcoming_menu_item {
     width: 99.9%;
     float: right;
-    background: #7596a0;
+    background: #616161;
     height: 79%;
     margin-top: -4px;
     color: white;
@@ -180,7 +180,7 @@ body {
 .first_upcoming_menu_item:hover {
     width: 99.9%;
     float: left;
-    background: black;
+    background: #616161;
     height: 79%;
     margin-top: -4px;
     color: white;
@@ -195,7 +195,7 @@ body {
 .second_upcoming_menu_item:hover {
     width: 98.9%;
     margin: 0 auto;
-    background: black;
+    background: #616161;
     height: 79%;
     margin-top: -4px;
     color: white;
@@ -210,7 +210,7 @@ body {
 .third_upcoming_menu_item:hover {
     width: 99.9%;
     float: right;
-    background: black;
+    background: #616161;
     height: 79%;
     margin-top: -4px;
     color: white;
