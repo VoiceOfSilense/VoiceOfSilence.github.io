@@ -142,7 +142,6 @@ body {
     /* border-radius: 0px 0px 10px 10px; */
     cursor: pointer;
     font-family: monospace;
-    border-top: 4px solid white;
 }
 .second_upcoming_menu_item {
     width: 100%;
@@ -158,7 +157,6 @@ body {
     /* border-radius: 0px 0px 10px 10px; */
     cursor: pointer;
     font-family: monospace;
-    border-top: 4px solid white;
 }
 .third_upcoming_menu_item {
     width: 100%;
@@ -174,7 +172,6 @@ body {
     /* border-radius: 0px 0px 10px 10px; */
     cursor: pointer;
     font-family: monospace;
-    border-top: 4px solid white;
 }
 
 .first_upcoming_menu_item:hover {
