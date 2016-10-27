@@ -101,10 +101,6 @@ body {
     transition: 0.2s;
     font-weight: 700;
 }
-.menu_item:hover {
-    transition: 0.2s;
-    color: white;
-}
 .slider {
     margin-top: 30px;
 }
