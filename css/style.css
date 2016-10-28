@@ -268,3 +268,8 @@ body {
     height: 40px;
     background: #424242;
 }
+.content_block_in_stihi {
+    width: 100%;
+    float: left;
+    height: calc(100vh - 40px);
+}
