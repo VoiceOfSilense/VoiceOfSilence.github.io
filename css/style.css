@@ -272,4 +272,5 @@ body {
     width: 100%;
     float: left;
     height: calc(100vh - 40px);
+    background: #616161;
 }
