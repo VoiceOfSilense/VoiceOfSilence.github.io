@@ -262,3 +262,9 @@ body {
     color: #fafafa;
     text-decoration: none;
 }
+.header_block_for_stihi_page {
+    width: 100%;
+    float: left;
+    height: 40px;
+    background: #424242;
+}
